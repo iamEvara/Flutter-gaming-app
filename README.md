@@ -1,7 +1,7 @@
-# gaming
+# Flutter Gaming App UI
 
-A new Flutter project.
-
+A Flutter app inspired by dribble design [here](https://dribbble.com/shots/15154811-Gaming-App-UI/attachments/6893494?mode=media).
+![dribble design](https://cdn.dribbble.com/users/3862493/screenshots/15154811/media/06e968bbf82dbf14414fbc5dce25bc8a.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
